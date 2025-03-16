@@ -23,6 +23,11 @@
 <p>- css</p>
 <p>- JavaScript</p>
 
+<h2>COMO PROBAR EL PROYECTO</h2>
+<p>Utiliza el comando: git clone https://github.com/DevJoseAlbertoER/desafioAmigoSecreto.git</p>
+<p>En tu carpeta local, ubica el archivo index.html</p>
+<p>Haz doble clic sobre index.html y se abrirá directamente en tu navegador por defecto (chrome, firefox, etc)</p>
 
 <h2>AUTOR DEL PROYECTO</h2> 
 <p>Jose Alberto Escamilla Ramos</p>
+
