@@ -1,5 +1,7 @@
 <h1 align="center"> # JUEGO AMIGO SECRETO </h1>
 
+![interfaz_amigo_secreto](https://github.com/user-attachments/assets/75e174bb-d9ca-419a-a88b-4129a318060d)
+
 ## :star:
 <h2>DESCRIPCION DEL PROYECTO</h2>
 <p>El presente proyecto lleva por nombre: "amigo secreto", se trata de una aplicacion web que permite a los usuarios ingresar los nombres de sus amigos en una lista para luego hacer un sorteo aleatorio.</p>
