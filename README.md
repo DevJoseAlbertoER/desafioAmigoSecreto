@@ -18,4 +18,4 @@
 
 
 <h2>AUTOR DEL PROYECTO</h2> 
-<p><Jose Alberto Escamilla Ramos<p>
+<p>Jose Alberto Escamilla Ramos</p>
