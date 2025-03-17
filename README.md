@@ -29,5 +29,5 @@
 <p>Haz doble clic sobre index.html y se abrirá directamente en tu navegador por defecto (chrome, firefox, etc)</p>
 
 <h2>AUTOR DEL PROYECTO</h2> 
-<p>Jose Alberto Escamilla Ramos</p>
+<p>Jose Alberto E.</p>
 
