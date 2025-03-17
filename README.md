@@ -14,10 +14,6 @@
 <p>- Manejo y visualizacion de listas.</p>
 <p>- Botón de sorteo de amigo para seleccion aleatoria.</p>
 
-<h2>USO DE BRANCH</h2>
-<p>Se realizo el uso de ramas para el desarrollo y prueba del proyecto fuera de main.</p>
-<p>Uso de merge para afectar "main" con el proyecto finalizado.</p>
-
 <h2>HERRAMIENTAS UTILIZADAS</h2>
 <p>- html</p>
 <p>- css</p>
